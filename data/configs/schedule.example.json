@@ -1,0 +1,18 @@
+{
+  "Example robot A": {
+    "enabled": false,
+    "last_run": "01.01.2000 00:00",
+    "priority": 1,
+    "main_file": "C:\\RPA\\Projects\\example-robot-a\\src\\main.pix",
+    "cron": "0 0 9 ? * MON-FRI *",
+    "_comment_cron": "Каждый рабочий день в 09:00"
+  },
+  "Example robot B": {
+    "enabled": false,
+    "last_run": "01.01.2000 00:00",
+    "priority": 2,
+    "main_file": "C:\\RPA\\Projects\\example-robot-b\\src\\main.pix",
+    "cron": "0 0 18 ? * MON-FRI *",
+    "_comment_cron": "Каждый рабочий день в 18:00"
+  }
+}

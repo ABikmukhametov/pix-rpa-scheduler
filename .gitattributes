@@ -1,0 +1,6 @@
+# PIX Studio artifacts and legacy generated/source documentation preserve their original whitespace.
+*.pix whitespace=-trailing-space
+*.pixproj whitespace=-trailing-space
+*.cs whitespace=-trailing-space
+*.html whitespace=-trailing-space
+docs/readme.md whitespace=-trailing-space
